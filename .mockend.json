@@ -1,6 +1,9 @@
 {
-    "User": {
-        "title": {
+    "Card": {
+        "question": {
+            "string": {}
+        },
+        "answer": {
             "string": {}
         }
     }
